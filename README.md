@@ -313,6 +313,7 @@ Precision and recall graphs show that the model performance has increased.
 
 Red line indicates training loss of improved model and the yellow line shows the validation loss of improved model. Both losses decreased more.
 
+
 In order to increase the model performance and decrease the difference between the train and validation loss values, the data should be more balanced. Model performance will increase as more cyclist and pedestrian examples are added to the dataset.
 
 
