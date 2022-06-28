@@ -313,6 +313,11 @@ Precision and recall graphs show that the model performance has increased.
 
 Red line indicates training loss of improved model and the yellow line shows the validation loss of improved model. Both losses decreased more.
 
+After the training and evaluation are finished, the model is exported. The exported model was tested on the test dataset. You can download one of the sample results from the link below.
+
+```
+https://drive.google.com/uc?export=download&id=1VXwgqDl51BxXy4dlVJcV49g2zqi_YCoo
+```
 
 In order to increase the model performance and decrease the difference between the train and validation loss values, the data should be more balanced. Model performance will increase as more cyclist and pedestrian examples are added to the dataset.
 
